@@ -28,4 +28,4 @@
 
 ### 常见BI系统对比：
 
-![image-20231102161203492](C:\Users\Lenovo\Pictures\typora\Research.assets\image-20231102161203492.png)
+![image-20231102161203492](Research.assets/image-20231102161203492.png)
